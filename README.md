@@ -1,0 +1,1 @@
+This API was build wih the prupose of learning the best parctices to build an API usin Django Rest Framework, it also can be used as an easy access documentation to all the principal fatures DRF can provide 
